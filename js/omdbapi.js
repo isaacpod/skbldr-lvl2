@@ -1,5 +1,5 @@
 //error handling omitted, just testing
-
+//just added a comment to test commit from gitpod
 Promise.all([getMovie('tt5034838'),
             getMovie('tt1160419'),
             getMovie('tt7069210'),
