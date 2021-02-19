@@ -1,0 +1,13 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Setup API",
+  "steps": [
+    {
+      "file": "js/omdbapi.js",
+      "description": "In order to call the OMDb API you will need to replace the `apikey` parameter with a valid key. To generate a key for you to use, fill out the form located on the OMDb API site [here](https://www.omdbapi.com/apikey.aspx).",
+      "line": 33,
+      "title": "## API Key"
+    }
+  ],
+  "isPrimary": true
+}
