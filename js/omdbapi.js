@@ -30,6 +30,7 @@ Promise.all([getMovie('tt5034838'),
 //simple function to make the api movie request
 //NOTE: change to use your OMDb API key in here
 function getMovie(id) {
-  let url = 'https://www.omdbapi.com/?i='+id+'&apikey=ASKMEFORMYKEYORGETYOUROWN'
+  //Making changes is easy in the cloud and desktop!
+  let url = 'https://www.omdbapi.com/?i='+id+'&apikey=CHANGEDONDESKTOPWITHCLOUDSPACESEXTENSION'
   return axios.get(url);
 }
